@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # MyEra Sticker App
 
 ## Overview
@@ -43,3 +44,6 @@ MyEra Sticker App is a simple interactive web application built with **React** a
 ## Demo Video
 
 Watch the demo video here: [Demo Video on Google Drive](https://drive.google.com/file/d/1Zn_IupsRcQaWetZz0tjI9YecgaPwVvNA/view?usp=drive_link)
+=======
+# MyEra_Sticker_App
+>>>>>>> c6de79b9ac6ecfce82af141dca06548d1efbbea7
